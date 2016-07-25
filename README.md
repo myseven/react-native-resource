@@ -6,6 +6,8 @@ react native相关资料
 ### UI组件
 1.一个带渐变背景颜色的View https://github.com/brentvatne/react-native-linear-gradient
 
+## 小白学语法
+1. react native 导出类中的方法,变量 `module.exports={变量名: 值, 或方法名, }`
 
 ## 环境
 **集成React Native 到现有iOS工程**
